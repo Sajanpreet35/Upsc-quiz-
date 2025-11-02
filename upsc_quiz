@@ -1,8 +1,68 @@
 [
-  "https://i.imgur.com/LoCaApm.jpeg",
-  "https://i.imgur.com/n5Qpe1n.jpeg",
-  "https://i.imgur.com/Qr9uswm.jpeg",
-  "https://i.imgur.com/eFwwozf.jpeg",
-  "https://i.imgur.com/0O2M40J.jpeg",
-  "https://i.imgur.com/UD2VK0b.jpeg"
+  {
+    "id": 1,
+    "question_image": "https://i.imgur.com/LoCaApm.jpeg",
+    "options": {
+      "A": "Freedom of speech and expression",
+      "B": "Freedom to move freely throughout India",
+      "C": "Right to life and personal liberty",
+      "D": "Right to form associations or unions"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 2,
+    "question_image": "https://i.imgur.com/n5Qpe1n.jpeg",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 3,
+    "question_image": "https://i.imgur.com/Qr9uswm.jpeg",
+    "options": {
+      "A": "Enhanced cyclonic activity over the Arabian Sea",
+      "B": "Absence of low-pressure systems in the Bay of Bengal",
+      "C": "Weakening of the Mascarene High",
+      "D": "Early arrival of western disturbances"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 4,
+    "question_image": "https://i.imgur.com/eFwwozf.jpeg",
+    "options": {
+      "A": "Increase the Cash Reserve Ratio (CRR)",
+      "B": "Reduce the Statutory Liquidity Ratio (SLR)",
+      "C": "Lower the repo rate",
+      "D": "Purchase government securities in the open market"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 5,
+    "question_image": "https://i.imgur.com/0O2M40J.jpeg",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 6,
+    "question_image": "https://i.imgur.com/UD2VK0b.jpeg",
+    "options": {
+      "A": "None of the above",
+      "B": "All of the above",
+      "C": "Only statement 2",
+      "D": "Only statement 1"
+    },
+    "correct_answer": "B"
+  }
 ]
