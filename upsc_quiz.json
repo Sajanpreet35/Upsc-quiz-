@@ -1,68 +1,62 @@
 [
   {
     "id": 1,
-    "question_image": "https://i.imgur.com/LoCaApm.jpeg",
+    "question": "Which one of the following rights cannot be suspended even during a proclamation of emergency in India?",
     "options": {
       "A": "Freedom of speech and expression",
-      "B": "Freedom to move freely throughout India",
+      "B": "Freedom to move freely throughout the territory of India",
       "C": "Right to life and personal liberty",
       "D": "Right to form associations or unions"
     },
-    "correct_answer": "C"
+    "correct_answer": "C",
+    "explanation": "The right to life and personal liberty under Article 21 continues even during an emergency, while rights under Article 19 can be suspended."
   },
   {
     "id": 2,
-    "question_image": "https://i.imgur.com/n5Qpe1n.jpeg",
+    "question": "With reference to the Pitt’s India Act of 1784, consider the following statements:\\n1. It gave the British Parliament direct control over the affairs of the East India Company in India.\\n2. It sought to separate the commercial and political functions of the Company.\\nWhich of the above statements is/are correct?",
     "options": {
       "A": "1 only",
       "B": "2 only",
       "C": "Both 1 and 2",
       "D": "Neither 1 nor 2"
     },
-    "correct_answer": "C"
+    "correct_answer": "C",
+    "explanation": "The Act created a Board of Control to supervise the Company’s political work in India, marking Parliament’s direct involvement and a separation of political from commercial roles."
   },
   {
     "id": 3,
-    "question_image": "https://i.imgur.com/Qr9uswm.jpeg",
+    "question": "If, in a particular year, the southwest monsoon withdraws two weeks earlier than usual from north-western India but rainfall over the southern peninsula remains normal, which of the following is the most likely cause?",
     "options": {
       "A": "Enhanced cyclonic activity over the Arabian Sea",
       "B": "Absence of low-pressure systems in the Bay of Bengal",
-      "C": "Weakening of the Mascarene High",
+      "C": "Weakening of the Mascarene High pressure system",
       "D": "Early arrival of western disturbances"
     },
-    "correct_answer": "A"
+    "correct_answer": "A",
+    "explanation": "Increased cyclonic systems over the Arabian Sea alter local wind fields, leading to early withdrawal from the northwest without affecting rainfall over the south."
   },
   {
     "id": 4,
-    "question_image": "https://i.imgur.com/eFwwozf.jpeg",
+    "question": "Which one of the following measures by the Reserve Bank of India would most immediately reduce liquidity in the banking system?",
     "options": {
-      "A": "Increase the Cash Reserve Ratio (CRR)",
-      "B": "Reduce the Statutory Liquidity Ratio (SLR)",
-      "C": "Lower the repo rate",
-      "D": "Purchase government securities in the open market"
+      "A": "Increasing the Cash Reserve Ratio (CRR)",
+      "B": "Reducing the Statutory Liquidity Ratio (SLR)",
+      "C": "Lowering the repo rate",
+      "D": "Purchasing government securities in the open market"
     },
-    "correct_answer": "A"
+    "correct_answer": "A",
+    "explanation": "Raising the CRR requires banks to keep more funds with the RBI, instantly reducing lendable resources and tightening liquidity."
   },
   {
     "id": 5,
-    "question_image": "https://i.imgur.com/0O2M40J.jpeg",
+    "question": "Consider the following statements about mangrove ecosystems in India:\\n1. Mangroves are mainly found along tropical tidal coasts.\\n2. The soil beneath mangroves stores more organic carbon compared to most other forest types.\\n3. Planting a single mangrove species generally increases overall biodiversity.\\nWhich of the statements given above is/are correct?",
     "options": {
       "A": "1 and 2 only",
       "B": "2 and 3 only",
       "C": "1 and 3 only",
       "D": "1, 2 and 3"
     },
-    "correct_answer": "A"
-  },
-  {
-    "id": 6,
-    "question_image": "https://i.imgur.com/UD2VK0b.jpeg",
-    "options": {
-      "A": "None of the above",
-      "B": "All of the above",
-      "C": "Only statement 2",
-      "D": "Only statement 1"
-    },
-    "correct_answer": "B"
+    "correct_answer": "A",
+    "explanation": "Mangroves occur along tropical tidal shores and have very high soil-carbon storage. Monoculture plantations actually reduce biodiversity."
   }
 ]
