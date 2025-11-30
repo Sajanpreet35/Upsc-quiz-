@@ -1,40 +1,21 @@
-[
-  {
+{
     "id": 1,
-    "question": "हाल में भारत सरकार ने चार नए Labour Codes लागू किए। निम्न कथनों पर विचार करें–\n1. Wages Code सभी श्रमिकों के लिए न्यूनतम वेतन, बोनस और भत्तों के नियम को एकीकृत करता है।\n2. Industrial Relations Code केवल formal sector के श्रमिकों पर लागू होता है और contract workers को शामिल नहीं करता।\n3. Social Security Code gig और platform workers को भी सामाजिक सुरक्षा कवरेज प्रदान करता है।\n4. Occupational Safety, Health & Working Conditions Code केवल factory workers के लिए लागू है और construction workers पर लागू नहीं होता।\nउपर्युक्त में से कौन-से कथन सही हैं?",
-    "options": {
-      "A": "केवल 1 और 3",
-      "B": "केवल 1, 3 और 4",
-      "C": "केवल 2 और 4",
-      "D": "सभी कथन सही हैं"
-    },
-    "correct_answer": "A"
+    "question": "Critically examine Justice N.V. Ramana’s assertion that “Indianisation” of the judiciary is necessary for easier access to justice. Identify the key factors that necessitate Indianisation in the contemporary legal system.",
+    "type": "descriptive"
   },
   {
     "id": 2,
-    "question": "चार नए Labour Codes के लागू होने के संदर्भ में निम्न में से कौन सा कथन सही है?\n1. Social Security Code केवल formal sector के लिए ही लागू है।\n2. Wages Code minimum wages, bonus और allowances को unify करता है।\n3. Occupational Safety, Health & Working Conditions Code सभी श्रमिकों के लिए safety और working condition norms तय करता है।",
-    "options": {
-      "A": "केवल 1 और 2",
-      "B": "केवल 2 और 3",
-      "C": "केवल 3",
-      "D": "2 और 3 सही हैं"
-    },
-    "correct_answer": "D"
+    "question": "Discuss how traditional Indian legal principles, including those from Manusmriti, Kautilya, Yajnavalkya, and Narada, can be harmonised with universal constitutional values in India’s modern jurisprudence. Give examples from recent landmark judgments.",
+    "type": "descriptive"
   },
   {
     "id": 3,
-    "question": "चार नए Labour Codes के लागू होने के प्रभाव के संदर्भ में विचार करें–\n1. Formalisation of workforce बढ़ेगा।\n2. Contract और gig workers को भी social security कवरेज मिलेगा।\n3. सभी पुराने श्रम कानून समाप्त हो जाएंगे।\nउपर्युक्त में से कौन-से कथन सही हैं?",
-    "options": {
-      "A": "केवल 1 और 2",
-      "B": "केवल 2 और 3",
-      "C": "केवल 3",
-      "D": "सभी कथन सही हैं"
-    },
-    "correct_answer": "A"
+    "question": "Evaluate the potential challenges and risks of integrating indigenous legal thought into the judiciary, especially regarding gender equality, minority rights, and secular principles.",
+    "type": "descriptive"
   },
   {
     "id": 4,
-    "question": "भारत में नए Labour Codes के लागू होने के बाद मजदूरों और नियोक्ताओं पर इसके दीर्घकालिक प्रभावों का मूल्यांकन कीजिए। यह बदलाव रोजगार, compliance और social security के दृष्टिकोण से किस प्रकार के अवसर और चुनौतियाँ पैदा करता है?",
+    "question": "Examine the role of technological modernisation, such as e-courts and AI-enabled systems, in making justice more accessible in rural India. How can this be balanced with the need to maintain constitutional safeguards and judicial independence?",
     "type": "descriptive"
   }
-]
+]~~~
